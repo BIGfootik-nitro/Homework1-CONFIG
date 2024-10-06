@@ -33,7 +33,7 @@ pytest -v
 Для генерации отчета о покрытии тестами необходимо выполнить команду:
 
 ```shell
-coverage run --branch -m pytest test_builder.py
+coverage run --branch -m pytest test_terminal.py
 ```
 
 Просмотр результатов покрытия:
